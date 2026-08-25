@@ -13,7 +13,7 @@ the thing, plus any assets it needs.
 | [`critique`](design/critique) | Structured design critique — ordered by consequence, so you know what to fix first instead of getting a flat list of observations. |
 | [`prototype-comments`](prototyping/prototype-comments) | Drops a Figma-style comment layer into any browser prototype. Clickable pins, JSON export, no backend. |
 | [`usability-test`](research/usability-test) | Plan and analyze user tests — writes unbiased tasks, catches leading questions, turns session notes into findings that hold up. |
-| [`ascii-flow`](docs/ascii-flow) | Draws vertical ASCII flowcharts with box-drawing characters. Monospace-safe, pastes anywhere. |
+| [`ascii-flowchart`](docs/ascii-flowchart) | Draws a flowchart out of box-drawing characters, so it renders anywhere monospace text does — READMEs, code comments, terminals. |
 
 ## Installing
 
