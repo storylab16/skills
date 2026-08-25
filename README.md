@@ -1,7 +1,7 @@
 # Skills
 
 Claude Code skills I built for my own work — design review, prototype
-feedback, user research, documentation, and a paper-trading sandbox.
+feedback, user research, and documentation.
 
 Each folder is a self-contained skill: a `SKILL.md` telling Claude how to do
 the thing, plus any assets it needs.
@@ -14,7 +14,6 @@ the thing, plus any assets it needs.
 | [`prototype-comments`](prototyping/prototype-comments) | Drops a Figma-style comment layer into any browser prototype. Clickable pins, JSON export, no backend. |
 | [`usability-test`](research/usability-test) | Plan and analyze user tests — writes unbiased tasks, catches leading questions, turns session notes into findings that hold up. |
 | [`ascii-flow`](docs/ascii-flow) | Draws vertical ASCII flowcharts with box-drawing characters. Monospace-safe, pastes anywhere. |
-| [`paper-trade`](trading/paper-trade) | Turns a trading idea in plain English into a paper-trading bot — real live prices, fake money. Never generates live-trading code. |
 
 ## Installing
 
@@ -42,9 +41,8 @@ applied consistently after that.
 
 They're opinionated on purpose. `critique` refuses to pad a list with filler
 findings. `usability-test` won't let you write "40% of users" from five people.
-`paper-trade` will not generate live-trading code no matter how you ask. Those
-constraints are the useful part — a tool with no point of view just agrees
-with you.
+Those constraints are the useful part — a tool with no point of view just
+agrees with you.
 
 ## License
 
